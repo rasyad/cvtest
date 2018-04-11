@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://rasyad.github.io/cvtest"
+    "url": "https://github.com/rasyad/cvtest"
   },
   "bugs": {
-    "url": "https://rasyad.github.io/cvtest/issues"
+    "url": "https://github.com/rasyad/cvtest/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://rasyad.github.io/cvtest/LICENSE"
+      "url": "https://github.com/rasyad/LICENSE"
     }
   ],
   "engines": {
